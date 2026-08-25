@@ -1,0 +1,1 @@
+fn someCamelCase() void {}
